@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Other common files to ignore
+*.log
+.DS_Store
