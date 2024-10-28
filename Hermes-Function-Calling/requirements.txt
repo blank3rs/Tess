@@ -1,0 +1,8 @@
+googlesearch-python
+beautifulsoup4
+requests
+yfinance==0.2.36
+selenium>=4.9.0
+
+
+

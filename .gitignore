@@ -3,7 +3,7 @@ venv/
 env/
 .venv/
 .env/
-
+.env
 # Python cache files
 __pycache__/
 *.py[cod]
@@ -11,3 +11,7 @@ __pycache__/
 # Other common files to ignore
 *.log
 .DS_Store
+
+# Add these lines to your existing .gitignore
+jarvis_history.json
+conversation_history.json
